@@ -1,0 +1,72 @@
+[
+    {
+        "first_name": "Vaibhav",
+        "last_name": "Salve",
+        "email": "vaibhav@gmail.com",
+        "gender": "Male",
+        "id": 1
+    },
+    {
+        "first_name": "Vaibhav",
+        "last_name": "Salve",
+        "email": "vaibhav@gmail.com",
+        "gender": "Male",
+        "id": 2
+    },
+    {
+        "id": 3,
+        "first_name": "Grantley",
+        "last_name": "Fairclough",
+        "email": "gfairclough2@usda.gov",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Guido",
+        "last_name": "Binny",
+        "email": "gbinny4@washington.edu",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Misha",
+        "last_name": "Payle",
+        "email": "mpayle5@un.org",
+        "gender": "Non-binary"
+    },
+    {
+        "id": 7,
+        "first_name": "Salomon",
+        "last_name": "Dood",
+        "email": "sdood6@yelp.com",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Phillipp",
+        "last_name": "Dayer",
+        "email": "pdayer7@a8.net",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Wain",
+        "last_name": "Derle",
+        "email": "wderle8@amazonaws.com",
+        "gender": "Non-binary"
+    },
+    {
+        "id": 10,
+        "first_name": "Marji",
+        "last_name": "Kenrat",
+        "email": "mkenrat9@51.la",
+        "gender": "Female"
+    },
+    {
+        "id": 11,
+        "first_name": "Vaibhav",
+        "last_name": "Salve",
+        "email": "vaibhav@gmail.com",
+        "gender": "Male"
+    }
+]
